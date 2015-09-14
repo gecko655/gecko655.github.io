@@ -1,4 +1,4 @@
 $("#line").click(function(){
-  $("#fuckline").toggleClass("show");
+  $("#fuckline").toggleClass("hide");
   console.log($("#fuckline"));
 });
